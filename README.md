@@ -3,7 +3,7 @@
 #### Loadstring
 This loadstring retrieves the UI library from the GitHub repository:
 ```lua
-local Neverlose_Main = loadstring(game:HttpGet"https://github.com/Mana42138/Neverlose-UI/blob/main/Source.lua")()
+https://raw.githubusercontent.com/thunderstormik-elik/Neverlose-UI-RBXFIXED/refs/heads/main/Source.lua
 ```
 
 #### Creating Window
